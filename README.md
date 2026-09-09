@@ -94,7 +94,7 @@ After cleaning and manipulating your data, it's crucial to know how to save your
 filtered_df.to_csv("modified_dining.csv", index=False)
 ```
 
-## Part 5: Submission and Exercise
+## Part 6: Submission and Exercise
 Once you have successfully saved `"modified_dining.csv"`, commit and push your final code and the new CSV file to your GitHub fork.
 
 Before you finish, add a short text file (`evaluation.md`) to your repository and answer the following metacognitive questions:
