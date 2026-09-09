@@ -103,4 +103,6 @@ Before you finish, add a short text file (`evaluation.md`) to your repository an
 3. For your chosen dining hall, which day had the highest coffee consumption per swipe?
 4. How would you determine which day had the lowest coffee consumption per swipe for your dining hall?
 
-Commit and push this repo file to complete the lab!
+Commit and push this repo. Finally, submit the link to your repo in the following Google Form: [Lab 01 Submission Form](https://forms.gle/9Fc8sRnnhVZ2gwAA8).
+
+Once you are finished and the link is submitted, you are free to leave!
