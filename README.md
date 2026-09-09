@@ -1,4 +1,4 @@
-# CMPSC 105 Data Exploration - Lab 01: Using Pandas
+uv # CMPSC 105 Data Exploration - Lab 01: Using Pandas
 
 ## Overview
 Welcome to the lab! Today, we will establish our standard version control workflow using GitHub and take our first steps into data manipulation using the Python `pandas` library. 
